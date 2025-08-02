@@ -28,4 +28,5 @@ Pick from multiple lyric styles, all synced to the beat, none synced to reality:
 - 🐍 `python-coder.json` – Error 404: Romanticism not found
 - 🐸 `yoda-mode.json` – Backwards speak, you must
 - 📱 `gen-z.json` – Vibe check: failed
+![output](https://github.com/user-attachments/assets/f4de250b-4aa3-4c7d-809d-3f992e81e3b5)
 
