@@ -20,13 +20,13 @@ ChaosVerse takes a regular karaoke experience and turns it into absolute nonsens
 Pick from multiple lyric styles, all synced to the beat, none synced to reality:
 
 - 🎭 `bad-translation.json` – Google Translate meets poetry
-- 🧙‍♂️ `shakespeare.json` – The Bard butchered
+- 🧙‍♂️ `shakespeare.json` – “Oh fair thou doth vibe”
 - 🧠 `ai-hallucination.json` – Text generated from a fever dream
 - ⚖️ `the-judge.json` – Courtroom drama energy
-- 💼 `corporate.json` – Annual reviews meet Ed Sheeran
+- 💼 `corporate.json` – Q4 synergy reports disguised as love songs. 
 - 🧚 `disney-fanfic.json` – Magic, cringe, and mice
-- 🐍 `python-coder.json` – Error 404: Romanticism not found
-- 🐸 `yoda-mode.json` – Backwards speak, you must
-- 📱 `gen-z.json` – Vibe check: failed
+- 🐍 `python-coder.json` – Written by someone who hasn’t seen daylight since the last pip install.
+- 🐸 `yoda-mode.json` – Backwards everything is. Confused you will be. Laugh, you must.
+- 📱 `gen-z.json` – ✨fr this hits different ngl✨
 ![output](https://github.com/user-attachments/assets/f4de250b-4aa3-4c7d-809d-3f992e81e3b5)
 
