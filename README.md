@@ -1,4 +1,4 @@
-# 🎤 ChaosVerse
+![output](https://github.com/user-attachments/assets/f806a442-3026-4ec8-8b4b-37821248a88c)# 🎤 ChaosVerse
 Where karaoke meets complete nonsense!
 
 ChaosVerse is a browser-based anti-karaoke experience built for pure fun, randomness, and chaos. It plays a karaoke track, displays completely unrelated and ridiculous lyrics.
@@ -28,5 +28,7 @@ Pick from multiple lyric styles, all synced to the beat, none synced to reality:
 - 🐍 `python-coder.json` – Written by someone who hasn’t seen daylight since the last pip install.
 - 🐸 `yoda-mode.json` – Backwards everything is. Confused you will be. Laugh, you must.
 - 📱 `gen-z.json` – ✨fr this hits different ngl✨
-![output](https://github.com/user-attachments/assets/f4de250b-4aa3-4c7d-809d-3f992e81e3b5)
+![output](https://github.com/user-attachments/assets/ac704ce1-7a55-4eac-b53c-34bc08ca747a)
+https://youtu.be/GeJAH-b7UhY
+
 
