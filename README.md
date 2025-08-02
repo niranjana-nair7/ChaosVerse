@@ -1,4 +1,4 @@
-![output](https://github.com/user-attachments/assets/f806a442-3026-4ec8-8b4b-37821248a88c)# 🎤 ChaosVerse
+# 🎤 ChaosVerse
 Where karaoke meets complete nonsense!
 
 ChaosVerse is a browser-based anti-karaoke experience built for pure fun, randomness, and chaos. It plays a karaoke track, displays completely unrelated and ridiculous lyrics.
