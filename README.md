@@ -29,6 +29,8 @@ Pick from multiple lyric styles, all synced to the beat, none synced to reality:
 - 🐸 `yoda-mode.json` – Backwards everything is. Confused you will be. Laugh, you must.
 - 📱 `gen-z.json` – ✨fr this hits different ngl✨
 ![output](https://github.com/user-attachments/assets/ac704ce1-7a55-4eac-b53c-34bc08ca747a)
+
+
 https://youtu.be/GeJAH-b7UhY
 
 
